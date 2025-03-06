@@ -1,0 +1,32 @@
+body {
+    font-family: Baskerville, Garamond, serif;
+    background-color:rgba(248, 252, 203, 0.551);
+    color: rgb(47, 161, 255);
+
+}
+
+.Recipe-Page-Header {
+    background-color: rgb(255, 214, 131);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    text-align:center;
+    font-size: 24px;
+
+}
+
+.Individual-Recipes {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+    color:rgb(241, 111, 255)
+
+}
